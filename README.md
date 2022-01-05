@@ -2,4 +2,4 @@
 
 # Me: Isabella Heppe
 
-# You: A Cool Person
+# You: Someone else
