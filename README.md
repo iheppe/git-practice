@@ -2,4 +2,4 @@
 
 # Me: Isabella Heppe
 
-# You: My name
+# You: A person
