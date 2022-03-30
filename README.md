@@ -2,4 +2,4 @@
 
 # Me: Isabella Heppe
 
-# You: A person
+# You: A student
